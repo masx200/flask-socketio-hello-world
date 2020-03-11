@@ -23,4 +23,3 @@ python flask-socketio-test.py
 
 http://localhost:8000
 
-#### 参与贡献
